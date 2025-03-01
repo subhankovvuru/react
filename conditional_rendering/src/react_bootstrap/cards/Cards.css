@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    gap: 15px;
+    padding: 0px 45px;
+   
+.card{
+    display: flex;
+    width: 300px;
+    height: 330px;
+    padding: 40px 20px;
+    box-shadow: 7px 7px 7px;
+    border: 2px solid gray;
+}
+    
+}
+.card img{
+    width: 100%;
+    height:40%;
+    
+}
+.card >.button{
+    display: flex;
+    text-align: center;
+    gap: 20px;
+    font-size: 13px;
+    
+}
