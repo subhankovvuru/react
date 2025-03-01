@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.matter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 30px;
+}
+.matterright{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.matterright > h1{
+    color: darkblue;
+    font-size: 3.3rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 38%;
+}
+.matterright > p{
+    color: blue;
+    font-size: 18px;
+}
+.matterleft,.matterright{
+    width: 43%;
+    
+}

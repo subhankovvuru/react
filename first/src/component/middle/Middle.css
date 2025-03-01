@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.middle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 30px;
+}
+.middlecenter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+    width: 40%;
+}
+.middlecenter > h1{
+    font-size: 4rem;
+    color:darkblue;
+}
+.middlecenter > p{
+    color: blue;
+    font-size: 18px;
+    font-weight: lighter;
+}
+.middlecenter > button{
+    margin-left: 30%;
+    width: 20%;
+    padding: 8px;
+    color:white;
+    background-color: darkblue;
+}
+.middlecenter > button:hover{
+    background-color: cornflowerblue;
+
+}
+

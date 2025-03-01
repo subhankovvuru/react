@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 30px;
+    gap:8%;
+}
+.containerleft{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.containerleft > h1{
+    color: darkblue;
+    font-size: 3.3rem;
+    font-family: 'Times New Roman', Times, serif;
+    
+    margin-right: 80px
+}
+.containerleft > p{
+    color: blue;
+    font-size: 18px;
+}
+.containerleft,.containerright{
+    width:43%;
+    
+}

@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 30px;
+    gap: 10px;
+}
+
+.contentleft,.contentright{
+    width: 43%;
+}
+.contentright{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+.contentright1 > h1{
+    font-size: 3.2rem;
+    color: darkblue;
+}
+.contentright1 > p{
+    font-size:15px;
+    color: blue;
+    font-weight: lighter;
+}
+.contentright2s{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+.contentright2 > h1{
+    font-size: 1.8rem;
+    color: darkblue;
+    padding: 5px;
+  
+}
+.contentright2 > p{
+    font-size: 15px;
+    font-weight: lighter;
+    color:blue;
+    
+}
+.contentright3 > h1{
+    font-size: 1.8rem;
+    color: darkblue;
+    padding: 5px;
+  
+}
+.contentright3 > p{
+    font-size: 15px;
+    font-weight: lighter;
+    color:blue;
+    
+}
+
+
