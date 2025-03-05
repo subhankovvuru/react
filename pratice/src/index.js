@@ -9,10 +9,10 @@ import ParentComp from './stateuplifiting/counter/ParentComp/ParentComp';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <ParentComp/>
-    {/* <BrowserRouter> */}
-    {/* <App /> */}
-    {/* </BrowserRouter> */}
+    {/* <ParentComp/> */}
+    <BrowserRouter>
+    <App />
+    </BrowserRouter>
 
 
   </React.StrictMode>
