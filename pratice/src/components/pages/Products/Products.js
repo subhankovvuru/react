@@ -1,30 +1,28 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
+
 import "./Products.css"
-import ABC from "axios"
 
-const Products = () => {
-  const [data,setdata]=useState([])
-    useEffect(()=>{
-        ABC.get('https://dummyjson.com/recipes')
-        .then(res=>{console.log(res)
-          setdata(res.data.recipes)
-        }).catch(err=>console.log(err))
+import {useNavigate} from "react-router-dom"
 
-    },[])
-    console.log(data,"data from api")
+const Products = ({data}) => {
+  
+    const navigate=useNavigate()
+    // console.log(navigate())
   return (
+
     <div className='carts'>
       {
         data.map(x=>{
+    
           return(
-            <div className='cart'>
+            <div className='cart' onClick={()=>navigate(`/products/${x.id}`)}>
               <p>{x.id}</p>
               <img alt='' src={x.image} />
               <p>{x.title}</p>
               <p>{x.name}</p>
               <div>
-                <button>ADDTOCART</button>
-                <button>BUY NOW</button>
+                <button>INGERIDENTS</button>
+                <button>INSTRUCTIONS</button>
               </div>
             </div>
           )
