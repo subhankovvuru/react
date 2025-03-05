@@ -16,6 +16,7 @@ import Product from './components/pages/Products/Product'
 const App = () => {
   
   const [data,setdata]=useState([])
+  
     useEffect(()=>{
         ABC.get('https://dummyjson.com/recipes')
         .then(res=>{console.log(res)
