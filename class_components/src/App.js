@@ -649,6 +649,9 @@
 import React from 'react'
 import Login from './classcomponents/Login/Login'
 class App extends React.Component{
+  componentDidUpdate(){
+    console.log("welcome")
+  }
   render(){
     return(
       <div>
