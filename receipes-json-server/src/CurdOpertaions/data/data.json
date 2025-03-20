@@ -1,40 +1,88 @@
 {
   "recipes": [
     {
-      "id": "1",
-      "name": "Classic Margherita Pizza",
+      "id": "2",
+      "name": "Vegetarian Stir-Fry",
       "ingredients": [
-        "Pizza dough",
-        "Tomato sauce",
-        "Fresh mozzarella cheese",
-        "Fresh basil leaves",
-        "Olive oil",
-        "Salt and pepper to taste"
+        "Tofu, cubed",
+        "Broccoli florets",
+        "Carrots, sliced",
+        "Bell peppers, sliced",
+        "Soy sauce",
+        "Ginger, minced",
+        "Garlic, minced",
+        "Sesame oil",
+        "Cooked rice for serving"
       ],
       "instructions": [
-        "Preheat the oven to 475°F (245°C).",
-        "Roll out the pizza dough and spread tomato sauce evenly.",
-        "Top with slices of fresh mozzarella and fresh basil leaves.",
-        "Drizzle with olive oil and season with salt and pepper.",
-        "Bake in the preheated oven for 12-15 minutes or until the crust is golden brown.",
-        "Slice and serve hot."
+        "In a wok, heat sesame oil over medium-high heat.",
+        "Add minced ginger and garlic, sauté until fragrant.",
+        "Add cubed tofu and stir-fry until golden brown.",
+        "Add broccoli, carrots, and bell peppers. Cook until vegetables are tender-crisp.",
+        "Pour soy sauce over the stir-fry and toss to combine.",
+        "Serve over cooked rice."
       ],
-      "prepTimeMinutes": 20,
-      "cookTimeMinutes": 15,
-      "servings": 4,
-      "difficulty": "Easy",
-      "cuisine": "Italian",
-      "caloriesPerServing": 300,
+      "prepTimeMinutes": 15,
+      "cookTimeMinutes": 20,
+      "servings": 3,
+      "difficulty": "Medium",
+      "cuisine": "Asian",
+      "caloriesPerServing": 250,
       "tags": [
-        "Pizza",
-        "Italian"
+        "Vegetarian",
+        "Stir-fry",
+        "Asian"
       ],
-      "userId": 166,
-      "image": "https://cdn.dummyjson.com/recipe-images/1.webp",
-      "rating": 4.6,
-      "reviewCount": 98,
+      "userId": 143,
+      "image": "https://cdn.dummyjson.com/recipe-images/2.webp",
+      "rating": 4.7,
+      "reviewCount": 26,
       "mealType": [
-        "Dinner"
+        "Lunch"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chocolate Chip Cookies",
+      "ingredients": [
+        "All-purpose flour",
+        "Butter, softened",
+        "Brown sugar",
+        "White sugar",
+        "Eggs",
+        "Vanilla extract",
+        "Baking soda",
+        "Salt",
+        "Chocolate chips"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F (175°C).",
+        "In a bowl, cream together softened butter, brown sugar, and white sugar.",
+        "Beat in eggs one at a time, then stir in vanilla extract.",
+        "Combine flour, baking soda, and salt. Gradually add to the wet ingredients.",
+        "Fold in chocolate chips.",
+        "Drop rounded tablespoons of dough onto ungreased baking sheets.",
+        "Bake for 10-12 minutes or until edges are golden brown.",
+        "Allow cookies to cool on the baking sheet for a few minutes before transferring to a wire rack."
+      ],
+      "prepTimeMinutes": 15,
+      "cookTimeMinutes": 10,
+      "servings": 24,
+      "difficulty": "Easy",
+      "cuisine": "American",
+      "caloriesPerServing": 150,
+      "tags": [
+        "Cookies",
+        "Dessert",
+        "Baking"
+      ],
+      "userId": 34,
+      "image": "https://cdn.dummyjson.com/recipe-images/3.webp",
+      "rating": 4.9,
+      "reviewCount": 13,
+      "mealType": [
+        "Snack",
+        "Dessert"
       ]
     },
     {
@@ -1038,200 +1086,58 @@
       ]
     },
     {
-      "id": "28",
-      "name": "South Indian Masala Dosa",
-      "ingredients": [
-        "Dosa batter (fermented rice and urad dal batter)",
-        "Potatoes, boiled and mashed",
-        "Onions, finely chopped",
-        "Mustard seeds",
-        "Cumin seeds",
-        "Curry leaves",
-        "Turmeric powder",
-        "Green chilies, chopped",
-        "Ghee",
-        "Coconut chutney for serving"
-      ],
-      "instructions": [
-        "In a pan, heat ghee and add mustard seeds, cumin seeds, and curry leaves.",
-        "Add chopped onions, green chilies, and turmeric powder. Sauté until onions are golden brown.",
-        "Mix in boiled and mashed potatoes. Cook until well combined and seasoned.",
-        "Spread dosa batter on a hot griddle to make thin pancakes.",
-        "Place a spoonful of the potato mixture in the center, fold, and serve hot.",
-        "Pair with coconut chutney for a delicious South Indian meal."
-      ],
-      "prepTimeMinutes": 40,
-      "cookTimeMinutes": 20,
-      "servings": 4,
-      "difficulty": "Medium",
-      "cuisine": "Indian",
-      "caloriesPerServing": 320,
-      "tags": [
-        "Dosa",
-        "Indian",
-        "Asian"
-      ],
-      "userId": 138,
-      "image": "https://cdn.dummyjson.com/recipe-images/28.webp",
-      "rating": 4.4,
-      "reviewCount": 96,
-      "mealType": [
-        "Breakfast"
-      ]
-    },
-    {
-      "id": "29",
-      "name": "Lebanese Falafel Wrap",
-      "ingredients": [
-        "Falafel balls",
-        "Whole wheat or regular wraps",
-        "Tomatoes, diced",
-        "Cucumbers, sliced",
-        "Red onions, thinly sliced",
-        "Lettuce, shredded",
-        "Tahini sauce",
-        "Fresh parsley, chopped"
-      ],
-      "instructions": [
-        "Warm falafel balls according to package instructions.",
-        "Place a generous serving of falafel in the center of each wrap.",
-        "Top with diced tomatoes, sliced cucumbers, red onions, shredded lettuce, and fresh parsley.",
-        "Drizzle with tahini sauce and wrap tightly.",
-        "Enjoy this Lebanese Falafel Wrap filled with fresh and flavorful ingredients!"
-      ],
-      "prepTimeMinutes": 15,
-      "cookTimeMinutes": 10,
-      "servings": 2,
-      "difficulty": "Easy",
-      "cuisine": "Lebanese",
-      "caloriesPerServing": 400,
-      "tags": [
-        "Falafel",
-        "Lebanese",
-        "Wrap"
-      ],
-      "userId": 110,
-      "image": "https://cdn.dummyjson.com/recipe-images/29.webp",
-      "rating": 4.7,
-      "reviewCount": 84,
-      "mealType": [
-        "Lunch"
-      ]
-    },
-    {
-      "id": "30",
-      "name": "Brazilian Caipirinha",
-      "ingredients": [
-        "Cachaça (Brazilian sugarcane spirit)",
-        "Lime, cut into wedges",
-        "Granulated sugar",
-        "Ice cubes"
-      ],
-      "instructions": [
-        "In a glass, muddle lime wedges with granulated sugar to release the juice.",
-        "Fill the glass with ice cubes.",
-        "Pour cachaça over the ice and stir well.",
-        "Sip and enjoy the refreshing taste of the Brazilian Caipirinha!",
-        "Adjust sugar and lime to suit your taste preferences."
-      ],
-      "prepTimeMinutes": 5,
-      "cookTimeMinutes": 0,
-      "servings": 1,
-      "difficulty": "Easy",
-      "cuisine": "Brazilian",
-      "caloriesPerServing": 150,
-      "tags": [
-        "Caipirinha",
-        "Brazilian",
-        "Cocktail"
-      ],
-      "userId": 134,
-      "image": "https://cdn.dummyjson.com/recipe-images/30.webp",
-      "rating": 4.4,
-      "reviewCount": 55,
-      "mealType": [
-        "Beverage"
-      ]
+      "id": "9ab4",
+      "name": "mutton Haleem",
+      "image": "https://i.ytimg.com/vi/6GFDZlr3B8Q/maxresdefault.jpg",
+      "rating": "4.9",
+      "ingredients": "500g mutton (boneless, cut into small pieces)\n1 cup broken wheat (daliya)\n¼ cup chana dal (Bengal gram)\n¼ cup masoor dal (red lentils)\n¼ cup moong dal (yellow lentils)",
+      "instructions": "Heat ghee/oil in a separate pan, add cumin seeds, and sauté onions until golden brown.\nAdd ginger-garlic paste and green chilies; sauté until fragrant.\nAdd mutton pieces, turmeric, red chili powder, coriander powder, and salt. Cook until the mutton turns brown.\nAdd chopped tomatoes and yogurt. Cook until the tomatoes turn soft."
     }
   ],
   "cart": [
     {
-      "id": "2",
-      "name": "Vegetarian Stir-Fry",
+      "id": "15",
+      "name": "Saag (Spinach) with Makki di Roti",
       "ingredients": [
-        "Tofu, cubed",
-        "Broccoli florets",
-        "Carrots, sliced",
-        "Bell peppers, sliced",
-        "Soy sauce",
-        "Ginger, minced",
-        "Garlic, minced",
-        "Sesame oil",
-        "Cooked rice for serving"
+        "Mustard greens, washed and chopped",
+        "Spinach, washed and chopped",
+        "Cornmeal (makki ka atta)",
+        "Onions, finely chopped",
+        "Green chilies, chopped",
+        "Ginger, grated",
+        "Ghee",
+        "Salt to taste"
       ],
       "instructions": [
-        "In a wok, heat sesame oil over medium-high heat.",
-        "Add minced ginger and garlic, sauté until fragrant.",
-        "Add cubed tofu and stir-fry until golden brown.",
-        "Add broccoli, carrots, and bell peppers. Cook until vegetables are tender-crisp.",
-        "Pour soy sauce over the stir-fry and toss to combine.",
-        "Serve over cooked rice."
+        "Boil mustard greens and spinach until tender. Drain and blend into a coarse paste.",
+        "In a pan, sauté chopped onions, green chilies, and grated ginger in ghee until golden brown.",
+        "Add the greens paste and cook until it thickens.",
+        "Meanwhile, knead cornmeal with water to make a dough. Roll into rotis (flatbreads).",
+        "Cook the rotis on a griddle until golden brown.",
+        "Serve hot saag with makki di roti and a dollop of ghee."
       ],
-      "prepTimeMinutes": 15,
-      "cookTimeMinutes": 20,
+      "prepTimeMinutes": 40,
+      "cookTimeMinutes": 30,
       "servings": 3,
       "difficulty": "Medium",
-      "cuisine": "Asian",
-      "caloriesPerServing": 250,
+      "cuisine": "Pakistani",
+      "caloriesPerServing": 280,
       "tags": [
-        "Vegetarian",
-        "Stir-fry",
+        "Saag",
+        "Roti",
+        "Main course",
+        "Indian",
+        "Pakistani",
         "Asian"
       ],
-      "userId": 143,
-      "image": "https://cdn.dummyjson.com/recipe-images/2.webp",
-      "rating": 4.7,
-      "reviewCount": 26,
+      "userId": 43,
+      "image": "https://cdn.dummyjson.com/recipe-images/15.webp",
+      "rating": 4.3,
+      "reviewCount": 86,
       "mealType": [
-        "Lunch"
-      ]
-    },
-    {
-      "id": "7",
-      "name": "Tomato Basil Bruschetta",
-      "ingredients": [
-        "Baguette, sliced",
-        "Tomatoes, diced",
-        "Fresh basil, chopped",
-        "Garlic cloves, minced",
-        "Balsamic glaze",
-        "Olive oil",
-        "Salt and pepper to taste"
-      ],
-      "instructions": [
-        "Preheat the oven to 375°F (190°C).",
-        "Place baguette slices on a baking sheet and toast in the oven until golden brown.",
-        "In a bowl, combine diced tomatoes, chopped fresh basil, minced garlic, and a drizzle of olive oil.",
-        "Season with salt and pepper to taste.",
-        "Top each toasted baguette slice with the tomato-basil mixture.",
-        "Drizzle with balsamic glaze before serving."
-      ],
-      "prepTimeMinutes": 15,
-      "cookTimeMinutes": 10,
-      "servings": 6,
-      "difficulty": "Easy",
-      "cuisine": "Italian",
-      "caloriesPerServing": 120,
-      "tags": [
-        "Bruschetta",
-        "Italian"
-      ],
-      "userId": 137,
-      "image": "https://cdn.dummyjson.com/recipe-images/7.webp",
-      "rating": 4.7,
-      "reviewCount": 95,
-      "mealType": [
-        "Appetizer"
+        "Breakfast",
+        "Lunch",
+        "Dinner"
       ]
     }
   ],

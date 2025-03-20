@@ -12,6 +12,15 @@ export const Cart = () => {
             setData(res.data)
         }).catch(err => console.log(err))
 
+        const deleteitem = async (del) => {
+            try {
+                await axios.delete(`http://localhost:4000//${Number(del.id)}`)
+                alert("done")
+            } catch (err) {
+                console.log(err);
+            }
+        }
+
     return (
         <div>
             <Table striped bordered hover>
@@ -30,7 +39,7 @@ export const Cart = () => {
                                 <td>{index+1}</td>
                                 <td>{x.name}</td>
                                 <td><img src={x.image} width={"100px"}/></td>
-                                <td><button>remove</button></td>
+                                <td><button onClick={()=>{deleteitem(x)}}>remove</button></td>
                             </tr>
                         )
                     })}
