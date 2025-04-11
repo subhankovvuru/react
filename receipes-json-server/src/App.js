@@ -83,25 +83,25 @@
 
 
 
-import React from 'react'
-import Navbar1 from './COperations/Navbar/Navbar'
-import {Routes,Route} from "react-router-dom"
-import Receipes from './COperations/Receipes/Receipes'
-import Cart from './COperations/Cart/Cart'
-import Addreceipes from './COperations/Receipes/Addreceipes'
+// import React from 'react'
+// import Navbar1 from './COperations/Navbar/Navbar'
+// import {Routes,Route} from "react-router-dom"
+// import Receipes from './COperations/Receipes/Receipes'
+// import Cart from './COperations/Cart/Cart'
+// import Addreceipes from './COperations/Receipes/Addreceipes'
 
-const App = () => {
-  return (
-    <div>
-      <Navbar1/>
-      <Routes>
-        <Route path='/receipes' element={<Receipes/>}/>
-        <Route path='/cart' element={<Cart/>}/>
-        <Route path='/addreceipes' element={<Addreceipes/>}/>
-      </Routes>
+// const App = () => {
+//   return (
+//     <div>
+//       <Navbar1/>
+//       <Routes>
+//         <Route path='/receipes' element={<Receipes/>}/>
+//         <Route path='/cart' element={<Cart/>}/>
+//         <Route path='/addreceipes' element={<Addreceipes/>}/>
+//       </Routes>
      
-    </div>
-  )
-}
+//     </div>
+//   )
+// }
 
-export default App
+// export default App

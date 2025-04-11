@@ -40,7 +40,7 @@
     },
     {
       "id": "10",
-      "name": "Shrimp Scampi Pasta",
+      "name": "Shrimp Scampi Pasta12345678",
       "ingredients": [
         "Linguine pasta",
         "Shrimp, peeled and deveined",
@@ -912,186 +912,15 @@
       ]
     },
     {
-      "id": "89f9",
-      "Name": "FastFood",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSq4t5f0vGuyRA10_cVq6EIW2psHZulHkWA&s",
-      "ingredients": "hello",
-      "instructions": "hhijsaansnj"
+      "id": "f268",
+      "Name": "chiken65",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj4IToB1rYOK7gZVizwWtX6PAJvi9oXPprDzNYG_h8RrKVvEHhqLFb_mrim2oCB4M2cDKIOxC5KyoM4NZDrQKxoI4nbXmchD1qc8wBCXgJPADhwke1ZCkWu6MLDlj8okEwOurD-PDQaZs/w1200-h630-p-k-no-nu/chicken+65+4.JPG",
+      "ingredients": "dgjsdfjk;dfhjl",
+      "instructions": "dshjk;dfgjl;",
+      "name": "chiken 65"
     }
   ],
   "cart": [
-    {
-      "id": "3",
-      "name": "Chocolate Chip Cookies",
-      "ingredients": [
-        "All-purpose flour",
-        "Butter, softened",
-        "Brown sugar",
-        "White sugar",
-        "Eggs",
-        "Vanilla extract",
-        "Baking soda",
-        "Salt",
-        "Chocolate chips"
-      ],
-      "instructions": [
-        "Preheat the oven to 350°F (175°C).",
-        "In a bowl, cream together softened butter, brown sugar, and white sugar.",
-        "Beat in eggs one at a time, then stir in vanilla extract.",
-        "Combine flour, baking soda, and salt. Gradually add to the wet ingredients.",
-        "Fold in chocolate chips.",
-        "Drop rounded tablespoons of dough onto ungreased baking sheets.",
-        "Bake for 10-12 minutes or until edges are golden brown.",
-        "Allow cookies to cool on the baking sheet for a few minutes before transferring to a wire rack."
-      ],
-      "prepTimeMinutes": 15,
-      "cookTimeMinutes": 10,
-      "servings": 24,
-      "difficulty": "Easy",
-      "cuisine": "American",
-      "caloriesPerServing": 150,
-      "tags": [
-        "Cookies",
-        "Dessert",
-        "Baking"
-      ],
-      "userId": 34,
-      "image": "https://cdn.dummyjson.com/recipe-images/3.webp",
-      "rating": 4.9,
-      "reviewCount": 13,
-      "mealType": [
-        "Snack",
-        "Dessert"
-      ]
-    },
-    {
-      "id": "12",
-      "name": "Chicken Karahi",
-      "ingredients": [
-        "Chicken, cut into pieces",
-        "Tomatoes, chopped",
-        "Green chilies, sliced",
-        "Ginger, julienned",
-        "Garlic, minced",
-        "Coriander powder",
-        "Cumin powder",
-        "Red chili powder",
-        "Garam masala",
-        "Cooking oil",
-        "Fresh coriander leaves",
-        "Salt to taste"
-      ],
-      "instructions": [
-        "In a wok (karahi), heat cooking oil and sauté minced garlic until golden brown.",
-        "Add chicken pieces and cook until browned on all sides.",
-        "Add chopped tomatoes, green chilies, ginger, and spices. Cook until tomatoes are soft.",
-        "Cover and simmer until the chicken is tender and the oil separates from the masala.",
-        "Garnish with fresh coriander leaves and serve hot with naan or rice."
-      ],
-      "prepTimeMinutes": 20,
-      "cookTimeMinutes": 30,
-      "servings": 4,
-      "difficulty": "Easy",
-      "cuisine": "Pakistani",
-      "caloriesPerServing": 420,
-      "tags": [
-        "Chicken",
-        "Karahi",
-        "Main course",
-        "Indian",
-        "Pakistani",
-        "Asian"
-      ],
-      "userId": 49,
-      "image": "https://cdn.dummyjson.com/recipe-images/12.webp",
-      "rating": 4.8,
-      "reviewCount": 68,
-      "mealType": [
-        "Lunch",
-        "Dinner"
-      ]
-    },
-    {
-      "id": "20",
-      "name": "Butter Chicken (Murgh Makhani)",
-      "ingredients": [
-        "Chicken thighs, boneless and skinless",
-        "Yogurt",
-        "Ginger-garlic paste",
-        "Garam masala",
-        "Kashmiri red chili powder",
-        "Tomato puree",
-        "Butter",
-        "Heavy cream",
-        "Kasuri methi (dried fenugreek leaves)",
-        "Sugar",
-        "Salt to taste"
-      ],
-      "instructions": [
-        "Marinate chicken thighs in a mixture of yogurt, ginger-garlic paste, garam masala, and Kashmiri red chili powder.",
-        "In a pan, melt butter and sauté the marinated chicken until browned.",
-        "Add tomato puree and cook until the oil separates. Stir in heavy cream.",
-        "Sprinkle kasuri methi, sugar, and salt. Simmer until the chicken is fully cooked.",
-        "Serve this creamy butter chicken over rice or with naan for an authentic Pakistani/Indian experience."
-      ],
-      "prepTimeMinutes": 30,
-      "cookTimeMinutes": 25,
-      "servings": 4,
-      "difficulty": "Medium",
-      "cuisine": "Pakistani",
-      "caloriesPerServing": 480,
-      "tags": [
-        "Butter chicken",
-        "Curry",
-        "Indian",
-        "Pakistani",
-        "Asian"
-      ],
-      "userId": 138,
-      "image": "https://cdn.dummyjson.com/recipe-images/20.webp",
-      "rating": 4.5,
-      "reviewCount": 44,
-      "mealType": [
-        "Dinner"
-      ]
-    },
-    {
-      "id": "1",
-      "name": "Classic Margherita Pizza",
-      "ingredients": [
-        "Pizza dough",
-        "Tomato sauce",
-        "Fresh mozzarella cheese",
-        "Fresh basil leaves",
-        "Olive oil",
-        "Salt and pepper to taste"
-      ],
-      "instructions": [
-        "Preheat the oven to 475°F (245°C).",
-        "Roll out the pizza dough and spread tomato sauce evenly.",
-        "Top with slices of fresh mozzarella and fresh basil leaves.",
-        "Drizzle with olive oil and season with salt and pepper.",
-        "Bake in the preheated oven for 12-15 minutes or until the crust is golden brown.",
-        "Slice and serve hot."
-      ],
-      "prepTimeMinutes": 20,
-      "cookTimeMinutes": 15,
-      "servings": 4,
-      "difficulty": "Easy",
-      "cuisine": "Italian",
-      "caloriesPerServing": 300,
-      "tags": [
-        "Pizza",
-        "Italian"
-      ],
-      "userId": 166,
-      "image": "https://cdn.dummyjson.com/recipe-images/1.webp",
-      "rating": 4.6,
-      "reviewCount": 98,
-      "mealType": [
-        "Dinner"
-      ]
-    },
     {
       "id": "1",
       "name": "Classic Margherita Pizza",
@@ -1135,6 +964,13 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt4LygVTmYcqL7dpCO0lGTM65i16J7ebfjaQ&s",
       "ingredients": "Chicken/Beef/Lamb – 500g, thinly sliced\nYogurt & Lemon Juice – ½ cup yogurt, 2 tbsp lemon juice (for marination)\nSpices – 1 tsp cumin, 1 tsp paprika, ½ tsp turmeric, ½ tsp cinnamon, salt, and pepper",
       "instructions": "Cook the meat – Grill, pan-fry, or bake at 200°C (400°F) for 15-20 minutes.\nPrepare the sauce – Mix mayonnaise, garlic paste, and olive oil until smooth.\nAssemble the Shawarma – Place cooked meat on pita bread, add veggies, and drizzle with garlic sauce."
+    },
+    {
+      "id": "f268",
+      "Name": "chiken65",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj4IToB1rYOK7gZVizwWtX6PAJvi9oXPprDzNYG_h8RrKVvEHhqLFb_mrim2oCB4M2cDKIOxC5KyoM4NZDrQKxoI4nbXmchD1qc8wBCXgJPADhwke1ZCkWu6MLDlj8okEwOurD-PDQaZs/w1200-h630-p-k-no-nu/chicken+65+4.JPG",
+      "ingredients": "dgjsdfjk;dfhjl",
+      "instructions": "dshjk;dfgjl;"
     }
   ],
   "total": 50,
